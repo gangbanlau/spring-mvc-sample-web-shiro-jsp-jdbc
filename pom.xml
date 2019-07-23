@@ -13,7 +13,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java-version>1.8</java-version>
 		<org.springframework-version>4.3.2.RELEASE</org.springframework-version>
-		<jackson-version>2.7.4</jackson-version>
+		<jackson-version>[2.9.9.1,)</jackson-version>
 		<org.apache.shiro-version>1.2.6</org.apache.shiro-version>
 		<org.slf4j-version>1.7.9</org.slf4j-version>
 	</properties>
